@@ -1,5 +1,4 @@
-package ginpackr 
-
+package ginpackr
 
 import (
 	"github.com/gobuffalo/packr/v2"
@@ -55,4 +54,3 @@ func PackrServe(urlPrefix string, box *packr.Box) gin.HandlerFunc {
 		}
 	}
 }
-
