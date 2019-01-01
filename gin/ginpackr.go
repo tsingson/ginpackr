@@ -1,4 +1,4 @@
-package ginpackr
+package gin
 
 
 import (
