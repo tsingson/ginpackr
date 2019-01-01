@@ -45,7 +45,7 @@ package main
 import (
 	"github.com/gin-gonic/gin"
 	"github.com/gobuffalo/packr/v2"
-	"github.com/tsingson/ginpackr"
+	"github.com/tsingson/packr/ginpackr"
 	...
 )
 
